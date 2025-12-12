@@ -88,12 +88,12 @@ Curiosity-driven, fast learner, and constantly improving my craft in modern full
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AllanRye9&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AllanRye9&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AllanRye9&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=AllanRye9&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanRye9&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AllanRye9&layout=compact&theme=tokyonight" />
 </p>
 
 ---
