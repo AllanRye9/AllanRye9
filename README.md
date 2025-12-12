@@ -61,7 +61,7 @@ Curiosity-driven, fast learner, and constantly improving my craft in modern full
 - Transaction recognition & anomaly detection  
 - Clean UI and dashboards  
 
-🔗 [*Repo coming soon*](https://github.com/AllanRye9/CreditPulse)
+🔗 [*Repo click here*] (https://github.com/AllanRye9/CreditPulse)
 
 ---
 
@@ -71,7 +71,7 @@ Curiosity-driven, fast learner, and constantly improving my craft in modern full
 - AI-powered waste classification  
 - Alerts & analytics system  
 
-🔗 *Repo coming soon*
+🔗  [*Repo click here*] (https://github.com/pamone74/sustainability)
 
 ---
 
@@ -81,7 +81,7 @@ Curiosity-driven, fast learner, and constantly improving my craft in modern full
 - Real-time open data aggregation  
 - AI-driven lifestyle recommendations  
 
-🔗 *Repo coming soon*
+🔗 [*Repo click here*] (https://github.com/pamone74/AbuDhabi-LifeGuide-SmartCity)
 
 ---
 
