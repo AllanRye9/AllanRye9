@@ -61,7 +61,7 @@ Curiosity-driven, fast learner, and constantly improving my craft in modern full
 - Transaction recognition & anomaly detection  
 - Clean UI and dashboards  
 
-🔗 *Repo coming soon*
+🔗 [*Repo coming soon*](https://github.com/AllanRye9/CreditPulse)
 
 ---
 
